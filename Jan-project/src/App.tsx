@@ -3,9 +3,7 @@ import './App.css'
 
 function App() {
 
-  return (
-    <p>Hello World</p>
-  )
+  return
 }
 
 export default App
